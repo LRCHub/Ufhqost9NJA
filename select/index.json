@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN 「車輪の唄」 from BUMP OF CHICKEN TOUR 2024 Sphery Rendezvous",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-01T15:32:18.601771Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sharin No Uta [車輪の唄]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Sharin_No_Uta_[車輪の唄]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "車輪の唄",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_車輪の唄_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_02_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
